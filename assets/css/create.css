@@ -1,0 +1,90 @@
+
+
+
+.ncolor3 p {   
+    color: #6e727f;
+}
+.ncolor3 h3 {   
+    color: #0d1884;
+}
+.lift {
+    color: #0d1884;
+}
+
+.boto {
+    color: #fff;
+    background-color: #0d1884 !important;
+    border-color: #0d1884 !important;
+}
+
+
+.oyaPad2 {
+    /* border-radius: 13px; */
+    background: linear-gradient(315deg, #ffffff, #ffffff);
+    /* box-shadow:  -18px -18px 81px #ffffff, 
+             18px 18px 81px #ffffff; */
+    padding: 15px;
+    border-radius: 20px;
+    height: 285px;
+    margin: 10px;
+  }
+  .ncolor3 {   
+    background-color: #ffffff;
+}
+
+.pad{
+    padding: 0;
+}
+
+.oyaPad3 {
+    padding: 15px;
+    border-radius: 20px;
+    height: 590px;
+    margin: 10px;
+}
+
+.ncolor5 {
+    background-color: #ffffff;
+}
+
+
+.bg-6b {  
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-image: url(../img/reap-wonder/walletweb.png);
+}
+ 
+/* .paddle {
+    background: linear-gradient(315deg, #e6e6e6, #ffffff);
+    background-image: url(../img/reap-wonder/web87.png);
+    background-size: cover;
+    border-radius: 13px;
+    box-shadow:  -18px -18px 81px #ffffff, 
+             18px 18px 81px #ffffff;
+  
+  } */
+  
+  .bg-3 {
+    background-position: top left;
+    background-size: auto;
+    background-color: #edeeef;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about-land {
+    text-align: center;
+}
+.skewd {
+    /* background-color: #fff; */
+}
+.ash {
+    background-color: #ffffff;
+}
+.grim {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

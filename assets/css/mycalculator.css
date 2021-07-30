@@ -1,0 +1,106 @@
+.flick{
+    background-color: #fbfbfb;
+    background-image: url(../img/illust/cal-bg.png);
+    padding: 70px 20px 20px 20px;
+    border-radius: 10px; 
+    margin-left: auto;
+    margin-top: 61px;
+    opacity: 1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: right;
+    
+}
+
+.cent {
+    color: #0d1884;
+    font-size: 42px;
+    margin-top: -24px;
+    margin-bottom: 18px;
+}
+.blad p {
+    color:#0d1884;
+    font-size: 33px;
+    margin-top: -12px;
+    margin-bottom: 15px;
+}
+.total-bal {
+    line-height: 1.2;
+    padding-bottom: 12px;
+    padding-top: 20px;
+
+}
+.cent p, .blad h6{
+    color: #6e6f6e;
+}
+
+.btn-chrome{
+    background-color: #0d1884;
+    color: #ffffff;
+    
+}
+.nice-select{
+    -webkit-tap-highlight-color:transparent;
+    background-color:#fff;
+    border-radius:5px;
+    border:solid 1px #0d1884;
+    color: #0d1884;
+    box-sizing:border-box;
+    clear:both;
+    cursor:pointer;
+    display:block;
+    float:left;
+    font-family:inherit;
+    font-size:14px;
+    font-weight:400;
+    height:42px;
+    line-height:40px;
+    width: 100%;
+    outline:0;
+    padding-left:18px;
+    padding-right:30px;
+    position:relative;
+    text-align:left!important;
+    -webkit-transition:all .2s ease-in-out;
+    transition:all .2s ease-in-out;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    white-space:nowrap;
+    /* width:auto */
+}
+.calculator-section{
+    background-color: #fbfbfb;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.calculator-box h5{
+ font-size: 12px;
+}
+.order-amount{
+    border: #0d1884 1px solid;
+    border-radius: 6px;
+    padding-left: 10px;
+}
+.order-amount input:focus{
+    border: 1px solid #eeeeee !important;
+    border-radius: 6px;
+}
+
+.mcd .duration{
+    display: block !important;
+    width: 100%;
+    height: 42px;
+    border: 1px solid #0d1884;
+    border-radius: 6px;
+    color: #0d1884;
+    padding-left: 10px;
+    background-color: #ffffff;
+}
+.mcd .nice-select{
+    display: none !important;
+}
+.calculator-pad{
+    padding-right: 10px;
+}

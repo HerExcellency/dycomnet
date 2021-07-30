@@ -1,0 +1,38 @@
+/** team-section **/
+
+.team-section{
+    position: relative;
+    padding: 147px 0px 146px 0px;
+  }
+  
+  .team-section .title-inner .sec-title,
+  .team-section .title-inner .text{
+    width: 50%;
+  }
+
+  @media only screen and (max-width: 991px){
+    .team-section .title-inner .sec-title{
+        width: 100%;
+        padding-right: 0px !important;
+        margin-bottom: 20px;
+      }
+    
+      .team-section .title-inner .text{
+        width: 100%;
+        margin: 0px !important;
+      }
+    
+      .team-section .title-inner{
+        margin-bottom: 30px;
+      }
+    }
+
+    
+@media only screen and (max-width: 767px){
+    .team-section{
+        padding: 65px 0px 40px 0px;
+      }
+      .team-section{
+        padding-bottom: 40px !important;
+      }
+    }

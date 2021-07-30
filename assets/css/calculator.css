@@ -1,0 +1,43 @@
+.blint{
+    height: 100vh;
+}
+.flay {
+    padding-top: 67px;
+    color: #0d1884;
+}
+.horizontal{
+    width:100%;
+}
+.divider.horizontal::before,
+.divider.horizontal::after{
+    border-top:1px solid rgba(213,210,229,.8);
+}
+.divider.horizontal::before,
+.divider.horizontal::after{
+    border-top:1px dashed rgba(213,210,229,.8);
+}
+.divider.horizontal {
+    margin:0 10px;
+}
+.horizontal{
+    border-top:1px dashed rgba(213,210,229,.8);
+}
+.horizontal::before{
+    position:absolute;
+    top:0;
+    right:100%;
+    bottom:0;
+    left:0;
+    transform:translateX(-100%) translateY(-50%)
+}
+/* .chain.horizontal::after{position:absolute;top:0;right:0;bottom:0;left:100%;transform:translateY(-50%)} */
+.boxes-button {
+    margin-top: 10px;
+    width: 220px;
+    padding-right: 40px;
+    margin-bottom: 8px;
+}
+.lab {
+    font-weight: 800px !important;
+}
+caret

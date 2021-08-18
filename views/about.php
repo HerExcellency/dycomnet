@@ -309,6 +309,18 @@
                     </div>
                 </div>
 
+                <div data-aos="zoom-in" data-aos-duration="27" data-aos-delay="25" class="col-lg-3 col-md-6 col-sm-12 mb-sm-4 ftco-animate">
+                    <div class="staff">
+                        <div class="img mb-4" style="background-image: url(assets/img/team/awasom.webp);"></div>
+                        <div class="info text-center">
+                            <h4 class="Rea trim">Bih Awasom</h4>
+                            <span class="position trim">Business</span>
+                            <div class="media-icon trim"><a href="//www.linkedin.com/in/bih-awasom-8b30141b7/" target="_blank"><i class='bx bxl-linkedin'></i></a>
+                <a style="margin-left: 1px" href="" target="_blank"><i class='bx bxl-twitter'></i></a></div>
+                            
+                        </div>
+                    </div>
+                </div>
             
                 <div data-aos="zoom-in" data-aos-duration="27" data-aos-delay="25" class="col-lg-3 col-md-6 col-sm-12 mb-sm-4 ftco-animate">
                     <div class="staff">

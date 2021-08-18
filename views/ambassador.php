@@ -10,7 +10,7 @@ Ambassador</h1>
                                 <p data-aos="zoom-in" data-aos-delay="900" class="save-p trim">Reaprite campus ambassador program is designed to engage and empower students in campuses across Nigeria by signing them up as Campus ambassador. The Campus ambassador will serve as liaison between their campuses and Reaprite. 
 </p>
                                 
-                                <div class="ij-btn ij-btn-lg lift"> <a class="align-start ij amb-default-btn" href="//docs.google.com/forms/d/1FN-J4-XJHxttQJ6wWj1_Z8d-8meZI80REf2oJvoTVxI/edit">Get Started</a></div>
+                                <div class="ij-btn ij-btn-lg lift"> <a class="align-start ij amb-default-btn" href="//docs.google.com/forms/d/1dzeRDi9IfqBqOAdsdgX43KP1GQsHi9r2Sh07npD11gs/edit">Get Started</a></div>
                             </div>
                         </div>
                         
@@ -256,7 +256,7 @@ Ambassador</h1>
                             <div class="col-12 trim main-banner-content amb-req">
                                 <h1 style="color: white">Can't wait to get started?</h1>
                                 <p style="color: white">Begin by clicking the link below to apply, then fill out the necessary application details and summit. If you are chosen, you will be notified via email, and winners will be announced on our platform.</p>
-                                <div class="ij-btn ij-btn-lg lift"> <a class="align-start ij ij-default-btn" href="//docs.google.com/forms/d/1FN-J4-XJHxttQJ6wWj1_Z8d-8meZI80REf2oJvoTVxI/edit">Get Started</a></div>
+                                <div class="ij-btn ij-btn-lg lift"> <a class="align-start ij ij-default-btn" href="//docs.google.com/forms/d/1dzeRDi9IfqBqOAdsdgX43KP1GQsHi9r2Sh07npD11gs/edit">Get Started</a></div>
 
                             </div>
 

@@ -2396,9 +2396,10 @@ Credit Card Area CSS
 =================================================*/
 .credit-card-area.bg-ffffff .row {
   /* background-color: #0d1884; */
-  background-image: url(../img/customer-bg.jpg);
+  background-image: url(../img/bg/patternLight.webp);
   padding: 35px 70px;
   border-radius: 15px;
+  background-position: center center;
 }
 
 
@@ -7879,9 +7880,9 @@ Go Top CSS
   /* padding-top: 31px; */
 }
 
-.blink {
+/* .blink {
   background-image: url(../img/customer-bg.jpg);
-}
+} */
 
 .lol p {
   margin-bottom: 0px;

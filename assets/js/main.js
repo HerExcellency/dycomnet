@@ -219,6 +219,59 @@ jQuery(function ($) {
 			}
 		});
 
+		$('.why-slider').owlCarousel({
+			loop: true,
+			nav: true,
+			dots: false,
+			smartSpeed: 500,
+			margin: 30,
+			autoplayHoverPause: true,
+			autoplay: true,
+			navText: [
+                "<i class='flaticon-left-arrow'></i>",
+                "<i class='flaticon-right-arrow'></i>"
+            ],
+			responsive: {
+				0: {
+					items: 1
+				},
+				768: {
+					items: 3
+				},
+				1200: {
+					items: 3
+				}
+			}
+		});
+		// card stacked js
+		window.onload = () => {
+			let sliderImagesBox = document.querySelectorAll('.cards-box');
+			sliderImagesBox.forEach(el => {
+				let imageNodes = el.querySelectorAll('.card:not(.hide)')
+				let arrIndexes = []; // Index array
+				(() => {
+					// The loop that added values to the arrIndexes array for the first time
+					let start = 0;
+					while (imageNodes.length > start) {
+						arrIndexes.push(start++);
+					}
+				})();
+		
+				let setIndex = (arr) => {
+					for(let i = 0; i < imageNodes.length; i++) {
+						imageNodes[i].dataset.slide = arr[i] // Set indexes
+					}
+				}
+				el.addEventListener('click', () => {
+					arrIndexes.unshift(arrIndexes.pop());
+					setIndex(arrIndexes)
+				})
+				setIndex(arrIndexes) // The first indexes addition
+			});
+		};
+		
+		
+
 		// Popup Video
 		$('.popup-youtube').magnificPopup({
 			disableOn: 320,

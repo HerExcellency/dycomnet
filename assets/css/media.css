@@ -10,8 +10,10 @@
             }
 .css-iikj8t{
      margin-bottom:1rem;
-    font-family: "Carmen Sans", "Poppins";
-    font-size:16px;
+    /* font-family: "Carmen Sans", "Poppins"; */
+  font-family: "Lato";
+
+    font-size:17px;
     font-weight: 500;
     -webkit-letter-spacing:0.12em;
     -moz-letter-spacing:0.12em;
@@ -243,7 +245,8 @@
             }
         .css-17mqtxo{
             padding:0.5rem;
-            font-family:"Carmen Sans", "Poppins";
+            /* font-family:"Carmen Sans", "Poppins"; */
+            font-family: "Lato";
             font-size:0.825rem;
             font-weight:700;
             -webkit-letter-spacing:0.09em;
@@ -278,7 +281,9 @@
             left:2em;
             }
         .css-dhism8{
-            font-family:"Carmen Sans", "Poppins";
+            /* font-family:"Carmen Sans", "Poppins"; */
+            font-family: "Lato";
+
             font-size:0.825rem;
             font-weight:700;
             -webkit-letter-spacing:0.09em;
@@ -435,7 +440,8 @@
                 width:11.4375rem;
                 }
             .css-qm7fuq::before{
-                font-family:"Carmen Sans", "Poppins";
+                /* font-family:"Carmen Sans", "Poppins"; */
+                font-family: "Cabin";
                 font-size:0.825rem;
                 font-weight:700;
                 -webkit-letter-spacing:0.09em;
@@ -554,7 +560,9 @@
     }
 .css-nbd1eu{
     margin-bottom:3rem;
-    font-family:"Carmen Sans", "Poppins";
+    /* font-family:"Carmen Sans", "Poppins"; */
+    font-family: "Lato";
+
     font-size:2.625rem;
     font-weight:700;
     -webkit-letter-spacing:0.03em;
@@ -573,8 +581,10 @@
     }
 .css-1mmp876{
     margin-bottom: 1rem;
-    font-family:"Carmen Sans", "Poppins";
-    font-size: 16px;
+    /* font-family:"Carmen Sans", "Poppins"; */
+    font-family: "Lato";
+
+    font-size: 17px;
     font-weight:500;
     -webkit-letter-spacing:0.12em;
     -moz-letter-spacing:0.12em;
@@ -734,8 +744,9 @@
 
     .footer--expressions{
         font-size:14px;
-        font-family:"Carmen Sans", "Poppins";
-        opacity:.5;
+        /* font-family:"Carmen Sans", "Poppins"; */
+        font-family: "Lato";
+        opacity:.7;
         padding-top: 15px;
       }
   ul .minta {

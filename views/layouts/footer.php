@@ -130,7 +130,7 @@
                     <div class="single-footer-widget">
                         <div class="footer-logo nuy">
                             
-                            <p style="padding-bottom:5px; font-weight: bolder"><span>Lagos:</span>  1B Olabanji Olajide Crescent, Off Mobolaji Johnson Estate,
+                            <p style="padding-bottom:5px; font-weight: bolder; opacity: 0.8"><span>Lagos:</span>  1B Olabanji Olajide Crescent, Off Mobolaji Johnson Estate,
                                 Lekki Phase 1, Lekki, Lagos</p> 
                             
                             <p class="footer--expressions">Reaprite.com Savings operates under the Cooperative License of Reaprite Multipurpose Cooperative Society. Reaprite renders savings and sponsorship services to its users. To ensure security, funds are warehoused by our trustee, Investment One Financial Services Limited (formerly GTB Asset Management Limited).</p>
@@ -198,6 +198,9 @@
     <script src="<?php echo base_url(); ?>/assets/js/popper.min.js"></script>
     <!-- Bootstrap JS -->
     <script src="<?php echo base_url(); ?>/assets/js/bootstrap.min.js"></script>
+    <!-- Less JS -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/less@4.1.1" ></script> -->
+    <script src="/path/to/less.js"></script>
     <!--aos cdn -->
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <!-- <script src="<?php echo base_url(); ?>/assets/js/boostrap.min.js"></script> -->

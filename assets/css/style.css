@@ -71,15 +71,19 @@ Default CSS
 body {
   padding: 0;
   margin: 0;
-  font-family: "Carmen Sans", "Poppins";
-  font-size: 16px;
+  /* font-family: "Carmen Sans", "Poppins"; */
+  /* font-family: "Cabin"; */
+  font-family: "Lato";
+
+
+  font-size: 17px;
 }
 
 a {
   text-decoration: none;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  color: #09101f;
+  color: #363763;
 }
 
 a:hover,
@@ -95,10 +99,15 @@ button {
 p {
   margin-bottom: 15px;
   line-height: 1.8;
-  color: #6e727f;
+  color: #3f3f3f;
   font-weight: 500;
-  font-family: "Carmen Sans", "Poppins";
-  font-size: 16px;
+  /* font-family: "Carmen Sans", "Poppins"; */
+  /* font-family: "Noto Sans"; */
+  /* font-family: "Cabin"; */
+  font-family: "Lato";;
+
+
+  font-size: 17px;
 }
 
 p:last-child {
@@ -160,7 +169,12 @@ h4,
 h5,
 h6 {
   color: #0d1884;
-  font-family: "Carmen Sans", "Poppins";
+  /* font-family: "Carmen Sans", "Poppins"; */
+  /* font-family: "Noto Sans"; */
+  /* font-family: "Cabin"; */
+  font-family:"Archivo";
+
+  
   font-weight: 500;
 }
 
@@ -188,7 +202,7 @@ Default btn CSS
   background-color: #0d1884;
   color: #ffffff;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -229,7 +243,7 @@ Default btn2 CSS
   color: #0d1884 !important;
   border-radius: 5px;
   border: 1px solid#182be3;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -517,7 +531,7 @@ Top Header Area CSS
   left: 0;
   color: #0d1884;
   top: 4px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .top-header-information li a {
@@ -553,7 +567,7 @@ Top Header Area CSS
   left: 0;
   color: #0d1884;
   top: 4px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .top-header-others li a {
@@ -572,7 +586,7 @@ Top Header Area CSS
   background-color: transparent;
   border-radius: 0;
   border: none;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   height: auto;
   line-height: initial;
@@ -669,7 +683,7 @@ Navbar Area CSS
 
 .main-navbar .navbar .navbar-nav .nav-item a {
   color: #6e727f;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   padding-left: 0;
   padding-right: 0;
@@ -948,7 +962,7 @@ Navbar Area CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   color: #09101f;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   padding-left: 0;
   padding-right: 0;
@@ -1313,7 +1327,7 @@ Navbar Area CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   color: #09101f;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   padding-left: 0;
   padding-right: 0;
@@ -1676,7 +1690,7 @@ Main Banner Area CSS
   color: #6e727f;
   border-radius: 0;
   background-color: #ebebeb;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   height: 60px;
   -webkit-transition: 0.5s;
@@ -1690,7 +1704,7 @@ Main Banner Area CSS
 }
 
 .main-banner-form .form-group label {
-  font-size: 16px;
+  font-size: 17px;
   color: #6e727f;
   font-weight: 600;
   margin-bottom: 10px;
@@ -1700,7 +1714,7 @@ Main Banner Area CSS
   height: 60px;
   width: 100%;
   line-height: 48px;
-  font-size: 16px;
+  font-size: 17px;
   padding-left: 20px;
   border: 1px solid #ebebeb;
   color: #6e727f;
@@ -1752,7 +1766,7 @@ Main Banner Area CSS
 }
 
 .main-banner-form .lost-your-id {
-  font-size: 16px;
+  font-size: 17px;
   color: #6e727f;
   font-weight: 500;
   float: right;
@@ -1763,7 +1777,7 @@ Main Banner Area CSS
 }
 
 .main-banner-form .lost-your-password {
-  font-size: 16px;
+  font-size: 17px;
   color: #6e727f;
   font-weight: 600;
   float: right;
@@ -1840,7 +1854,7 @@ Top Services Area CSS
 }
 
 .top-services-item .link-btn {
-  font-size: 16px;
+  font-size: 17px;
   color: #0d1884;
   font-weight: 500;
   -webkit-transition: 0.5s;
@@ -2305,7 +2319,7 @@ Services Area CSS
 }
 
 .single-services-item .learn-btn {
-  font-size: 16px;
+  font-size: 17px;
   color: #09101f;
   font-weight: 500;
   -webkit-transition: 0.5s;
@@ -3044,7 +3058,7 @@ Blog Area CSS
 .single-blog-item .post-content .post-meta li {
   list-style-type: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   position: relative;
   padding-left: 22px;
@@ -3060,7 +3074,7 @@ Blog Area CSS
   left: 0;
   color: #0d1884;
   top: 4px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .single-blog-item .post-content p {
@@ -3075,7 +3089,7 @@ Blog Area CSS
 }
 
 .single-blog-item .post-content .blog-btn i {
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .single-blog-item:hover .post-image img {
@@ -4212,7 +4226,7 @@ Pricing Area CSS
 }
 
 .single-pricing-box .pricing-features li i {
-  font-size: 16px;
+  font-size: 17px;
   color: #0d1884;
   margin-right: 5px;
 }
@@ -4249,7 +4263,7 @@ Pricing Area CSS
   box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1);
   color: #ffffff;
   padding: 10px 50px;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: bold;
   border-radius: 30px;
   width: 100%;
@@ -4483,7 +4497,7 @@ Services Details Area CSS
   margin-bottom: 15px;
   padding-left: 25px;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .services-details-desc .services-details-features .features-list li i {
@@ -4529,7 +4543,7 @@ Services Details Area CSS
   margin-bottom: 15px;
   padding-left: 25px;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .services-details-desc .services-details-benefit .benefit-list li i {
@@ -4575,7 +4589,7 @@ Services Details Area CSS
   margin-bottom: 15px;
   padding-left: 25px;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 17px;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 50%;
   flex: 0 0 50%;
@@ -4752,7 +4766,7 @@ Services Details Area CSS
   position: relative;
   color: #182be3;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 17px;
   padding-left: 35px;
   padding-bottom: 20px;
   font-size: 14px;
@@ -4854,7 +4868,7 @@ Sign In Area CSS
   margin-bottom: 10px;
   color: #6e727f;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .sign-in-form form .form-group .form-control {
@@ -4869,7 +4883,7 @@ Sign In Area CSS
   box-shadow: unset !important;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
 }
 
@@ -4979,7 +4993,7 @@ Register Area CSS
   margin-bottom: 10px;
   color: #6e727f;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .register-form form .form-group .form-control {
@@ -4994,7 +5008,7 @@ Register Area CSS
   box-shadow: unset !important;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
 }
 
@@ -5015,7 +5029,7 @@ Register Area CSS
   height: 60px;
   width: 100%;
   line-height: 48px;
-  font-size: 16px;
+  font-size: 17px;
   padding-left: 20px;
   border: 1px solid #f1f1f1;
   color: #6e727f;
@@ -5345,7 +5359,7 @@ Privacy Area CSS
   color: #6e727f;
   line-height: 1.8;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 /*================================================
@@ -5574,11 +5588,11 @@ Blog Details Area CSS
   left: 0;
   color: #0d1884;
   top: 4px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .blog-details-desc .article-content .entry-meta ul li a {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   color: #6e727f;
 }
@@ -5868,7 +5882,7 @@ blockquote p,
 }
 
 .comments-area .comment-author {
-  font-size: 16px;
+  font-size: 17px;
   margin-bottom: 8px;
   position: relative;
   z-index: 2;
@@ -5940,7 +5954,7 @@ blockquote p,
 }
 
 .comments-area .comment-respond label {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
 }
 
@@ -6219,7 +6233,7 @@ Widget Sidebar CSS
   overflow: hidden;
   color: #09101f;
   padding-left: 20px;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
 }
 
@@ -6485,7 +6499,7 @@ Open Account Area CSS
   margin-bottom: 10px;
   color: #6e727f;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .open-account-form form .form-group .form-control {
@@ -6500,7 +6514,7 @@ Open Account Area CSS
   box-shadow: unset !important;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 400;
 }
 
@@ -6545,7 +6559,7 @@ Open Account Area CSS
   height: 50px;
   width: 100%;
   line-height: 40px;
-  font-size: 16px;
+  font-size: 17px;
   padding-left: 20px;
   border: 1px solid #f1f1f1;
   color: #6e727f;
@@ -7019,7 +7033,7 @@ Loan Form Area CSS
   margin-bottom: 10px;
   color: #6e727f;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .loan-form form .form-group .form-control {
@@ -7034,7 +7048,7 @@ Loan Form Area CSS
   box-shadow: unset !important;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 400;
 }
 
@@ -7079,7 +7093,7 @@ Loan Form Area CSS
   height: 50px;
   width: 100%;
   line-height: 40px;
-  font-size: 16px;
+  font-size: 17px;
   padding-left: 20px;
   border: 1px solid #f1f1f1;
   color: #6e727f;
@@ -7203,7 +7217,7 @@ Location Maps Area CSS
 }
 
 .location-maps-image .location a .location-info h5 {
-  font-size: 16px;
+  font-size: 17px;
   margin: 5px 0 5px 0;
   color: #0d1884;
 }
@@ -7278,7 +7292,7 @@ Table Area CSS
   background-color: #f9fafb;
   color: #09101f;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .table-bordered tbody tr th {
@@ -7412,7 +7426,7 @@ Footer Area CSS
 }
 
 .single-footer-widget .footer-logo p {
-  color: #6e727f;
+  color: #3f3f3f;
   margin-bottom: 0;
 }
 
@@ -7491,7 +7505,7 @@ Footer Area CSS
 
 .single-footer-widget .footer-contact-info li a {
   display: inline-block;
-  color: #6e727f;
+  color: #3f3f3f;
   font-weight: 400;
   position: relative;
   font-size: 15px;
@@ -7529,12 +7543,12 @@ Footer Area CSS
 
 .single-footer-widget .quick-links li {
   margin-bottom: 12px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .single-footer-widget .quick-links li a {
   display: inline-block;
-  color: #6e727f;
+  color: #3f3f3f;
   font-weight: 400;
   position: relative;
 }
@@ -7957,7 +7971,7 @@ Go Top CSS
 }
 
 .bob .link-btn {
-  font-size: 16px;
+  font-size: 17px;
   color: #09101f;
   font-weight: 600;
   -webkit-transition: 0.5s;
@@ -8664,7 +8678,7 @@ margin-top: 27px;
     padding: 24px;
   }
   .mbOf5{
-font-size: 15px;
+font-size: 16px;
 line-height: 1.7;
   }
   .h5h {
@@ -8915,7 +8929,7 @@ Media Area CSS
 }
 @media (min-width: 576px) and (max-width: 769px){
   .happy-tech {
-    background-image: url(../img/customer/yekini.jpeg);
+    background-image: url(../img/customer/OguAnita-Reaprite.webp);
     background-repeat: no-repeat;
     background-size: 30% 100%;
     /* max-width: 30%; */
@@ -9066,9 +9080,9 @@ Media Area CSS
 }
 .customer-default-btn{
   background-color: #eeeeef;
-  color: #6e6f67;
+  color: #3f3f3f;
   border-radius: 10px;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 500;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -9100,6 +9114,11 @@ border-radius: 5px;
 @media (max-width: 790px){
   .show-icon {
   display: none;
+  }
+  .app-btn{
+    margin-left: auto;
+    margin-right: auto;
+    width: 73%;
   }
 }
 .app-btn .web-store-btn2 {

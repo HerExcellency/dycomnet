@@ -192,8 +192,8 @@ Avoid the temptation of spending that money meant for that particularly importan
                 </div>
                 
 
-                <div class="col-12 col-sm-12 col-md-6 col-xs-12 gutter">
-                    <div class="row">                        
+                <div class="col-12 col-sm-12 col-md-6 col-xs-12 gutter" style="margin-left: auto">
+                    <div class="row" >                        
                         <div class="col-md-6 pald">
                           <div class="icon circle-icon circle-icon1 leaf leafy mb-10 trim hide-me">
                             <img  class="mr-4 " src="assets/img/illust/webiconx4.png" alt="icon" style="margin-bottom: 13px">
@@ -276,18 +276,18 @@ Avoid the temptation of spending that money meant for that particularly importan
         <div class="container ">
             <div class="col-sm-12">
                 <div class="head-main fonting">
-                    <h2 class="trim h6h" style="color: #0d1884"><b>What Customers Say About Us</b></h2>
+                    <h2 data-aos="zoom-in" data-aos-duration="10" class="trim h6h" style="color: #0d1884"><b>What Customers Say About Us</b></h2>
                 </div>
             </div>
-            <div class="row ml-lg-5 ml-md-2 mr-lg-5 mr-md-2 pl-lg-2 pl-md-1 pr-lg-3 pr-md-1  vertical-align-center customer-web">
+            <div data-aos="fade-up" data-aos-duration="20" class="row ml-lg-5 ml-md-2 mr-lg-5 mr-md-2 pl-lg-2 pl-md-1 pr-lg-3 pr-md-1  vertical-align-center customer-web">
                 <div class="col-lg-12 happy-tech">
                     <div class="row">
                         <div class="yekini col-lg-4 col-md-3 col-sm-3">
 
                         </div>
-                        <div class="story col-lg-7 col-md-8 col-sm-8" >
-                            <p>“So far, I have enjoyed my experience with Reaprite. I use it for savings and I recommended it to my friends."</p>
-                            <p><span class="opacit"><b>Precious, Benin.</b></span></p>
+                        <div class="story col-lg-7 col-md-8 col-sm-8 star-girl-comment" >
+                            <p>“I love Reaprite because it’s easy for me to keep my money aside and have it grow. I would definitely recommend Reaprite to anyone who wants to save"</p>
+                            <p><span class="opacit"><b>Anita, Lagos.</b></span></p>
                         </div>
                     </div>            
                 </div>
@@ -295,25 +295,25 @@ Avoid the temptation of spending that money meant for that particularly importan
 
                 <div class="customers">
                     <div class="row">
-                        <div class="col-lg-5">
+                        <div class="col-lg-5" data-aos="fade-up" data-aos-duration="13">
                             <div class="row customer-placcard">
                                 <div class="customer-pix col-lg-2 col-md-2 col-sm-2">
-                                    <img src="assets/img/customer/Nafisah.jpeg" alt=""/>
+                                    <img src="assets/img/customer/eseosa-Reaprite.jpg" alt=""/>
                                 </div>
-                                <div class="speech col-lg-10 col-md-10 col-sm-10" style="padding-left: 9px; padding-right: 9px">
-                                    <p >“Reaprite is helping me a lot because I'm the type that spends lavishly but now, I have some money in my savings. I started two weeks ago. I'm so happy with Reaprite."
+                                <div class="speech col-lg-10 col-md-10 col-sm-10 customer-comment">
+                                    <p >“I got to know about Reaprite through a friend. I enjoy using Reaprite to save especially because they have short cycled savings plans."
                                     </p>
-                                    <p><span><b>Nafisah</b></span></p>
+                                    <p><span><b>Eseosa</b></span></p>
                                 </div>
                             </div>
                         </div>
                         <!-- <div class="col-lg-1"></div> -->
-                        <div class="col-lg-5">
+                        <div class="col-lg-5" data-aos="fade-up" data-aos-duration="15">
                             <div class="row customer-placcard">
                                 <div class="customer-pix col-lg-2 col-md-2 col-sm-2">
                                     <img src="assets/img/customer/Tim.jpeg" alt=""/>
                                 </div>
-                                <div class="speech col-lg-10 col-md-10 col-sm-10">
+                                <div class="speech col-lg-10 col-md-10 col-sm-10 customer-comment">
                                     <p>“Reaprite is so easy to use and the interest rates are very inviting.  I find this platform easy to use and I strongly recommend it for anyone.”
                                     <p>
                                     <span><b>Tim</b></span></p>
@@ -322,12 +322,13 @@ Avoid the temptation of spending that money meant for that particularly importan
                         </div>
                         <div class="col-lg-2 write-yours-990">
                             <div class="pen-icon" >
-                                <div>
-                                    <a href="<?php echo base_url(); ?>/review">
-                                    <!-- <i class="bx bxs-pencil bx-tada" style="padding-left:33%; padding-top: 12px"></i> -->
+                                <div data-aos="fade-up" data-aos-duration="15">
+                                    <a href="<?php echo base_url(); ?>/review"> 
+                                    
                                         <img src="//img.icons8.com/ultraviolet/40/000000/pencil--v2.png" style="padding-left:33%; padding-top: 12px"/>
                                         <p style="margin-left: 12px; color: #0d1884">Write Yours</p>
                                     </a>
+                                
                                 </div>
                                 
                             </div>
@@ -335,7 +336,7 @@ Avoid the temptation of spending that money meant for that particularly importan
               
              
               <div  class="pet write-yours-989" >
-              <div class="nuj customer-btn customer-btn-lg write-yours-mobile align-start" > 
+              <div  class="nuj customer-btn customer-btn-lg write-yours-mobile align-start" > 
                 <a class=" customer-star-button customer-default-btn" style="float: left; background-color: #ffffff" href="<?php echo base_url(); ?>/review"><span>Write yours</span>
                 <i class="bx bxs-pencil bx-tada" style="float: right; padding-top: 6px"></i>
                 </a>
@@ -354,10 +355,10 @@ Avoid the temptation of spending that money meant for that particularly importan
         <div class="row customer-mobile">
             <div class=col-sm-12 mb-sm-4 ftco-animate">
                 <div class="star-girl">
-                    <div class="img mb-4" style="background-image: url(assets/img/customer/yekini.jpeg);"></div>
+                    <div class="img mb-4" style="background-image: url(assets/img/customer/OguAnita-Reaprite.webp);"></div>
                     <div class="info text-center" style="padding-top: 15px">
                         <p>“So far, I have enjoyed my experience with Reaprite. I use it for savings and I recommended it to my friends."</p>
-                        <p style="color: #0d1884"><span class="opacit"><b>Precious, Benin.</b></span></p>
+                        <p style="color: #0d1884"><span class="opacit"><b>Anita, Lagos.</b></span></p>
                     </div>
                 </div>
             </div>
@@ -372,7 +373,7 @@ Avoid the temptation of spending that money meant for that particularly importan
     </section>
 
     
-
+   
     
     <!-- Start Credit Card Area -->
     <section class="credit-card-area bg-ffffff">

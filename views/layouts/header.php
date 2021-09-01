@@ -24,8 +24,14 @@
 
 
     <!-- fonts -->
-   <!-- poppins -->
     <link rel="preconnect" href="//fonts.gstatic.com">
+    <!-- cabin -->
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Noto+Sans:wght@400;700&family=Playfair+Display&display=swap" rel="stylesheet">
+    <!-- archivo $ lato-->
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800&family=Lato:ital,wght@0,300;0,400;0,700;1,100&display=swap" rel="stylesheet">
+    <!-- Noto Sans -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+   <!-- poppins -->
     <link href="//fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">  
     <!-- carmen sans -->
     <link href = "assets/fonts/Carmen Sans/stylesheet.css" rel = "stylesheet" type = "text/css" />
@@ -33,6 +39,10 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/bootstrap.min.css">
     <!-- aos cdn -->
     <link href="//unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Less CSS -->
+    <!-- <link rel="stylesheet/less" type="text/css" href="styles.less" /> -->
+    <link rel="stylesheet/less" href="/path/to/bootstrap.less">
+
     <!-- Slick CSS -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/infinite-slider.css">
 
@@ -66,6 +76,7 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/toptal.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/responsive.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/about.css">
+    <script src="https://kit.fontawesome.com/ff6c599ae6.js" crossorigin="anonymous"></script>
 
     <title><?php echo @$data['page_title'] ?: 'Reaprite - The Smart Way to Plan, Save and Invest Online'; ?></title>
 

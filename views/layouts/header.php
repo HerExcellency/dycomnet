@@ -68,7 +68,7 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/indexMedia.css">
     
     <!-- Style CSS -->
-    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/style.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/stylepromo2.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/create.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/savings.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/media.css">

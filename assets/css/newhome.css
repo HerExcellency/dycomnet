@@ -747,3 +747,12 @@ margin-top: 0px;
 .reapriteHelpedReview p{
   margin-top: 1px;
 }
+.colorInvert{
+  filter: grayscale();
+}
+.whyItemCard{
+  height: 203px;
+}
+.whyItemCard p{
+  font-size: 14px;
+}

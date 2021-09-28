@@ -131,7 +131,7 @@
                     <div class="staff">
                         <div class="img mb-4" style="background-image: url(assets/img/team/victorSus.png);"></div>
                         <div class="info text-center">
-                            <h6 class="Rea trim namey">Peter Aminu</h6>
+                            <h6 class="Rea trim namey">Peter Victor</h6>
                             
                             <div class="media-icon trim"></div>
                             
@@ -187,7 +187,7 @@
                     <div class="staff">
                         <div class="img mb-4" style="background-image: url(assets/img/team/victorSus.png);"></div>
                         <div class="info text-center">
-                            <h5 class="Rea trim">Peter Aminu</h5>
+                            <h5 class="Rea trim">Peter Victor</h5>
                             <span class="position trim">Finance</span>
                             <div class="media-icon trim"><a href="//www.linkedin.com/in/peter-victor-354762137" target="_blank"><i class='bx bxl-linkedin'></i></a>
                 <a style="margin-left: 1px" href="//twitter.com/Peterzone50?s=08" target="_blank"><i class='bx bxl-twitter'></i></a></div>

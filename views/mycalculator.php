@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/mycalculator.css">
 
-<section class="calculator-section">
+<section class="calculator-section container">
 <div class="container  blint">
 <div class="row">
         <div class="col-lg-5 col-md-6 col-sm-12 col-12">

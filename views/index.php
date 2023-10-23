@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/homeVideo.css">
 
 <!-- <script src="<?php echo base_url(); ?>/assets/js/bundle.js"></script> -->
-<section class="landingSection">
+<section class="landingSection container">
     <div class="container ">
         <div class="row landingDiv">
             <div class="main-banner-content landingContentDiv">
@@ -30,7 +30,7 @@
     </div>
 </section>
 
-<section class="mt-50 mb-50 pr-10 pl-10 mr-5 ml-5 partner-desktop">
+<section class="mt-50 mb-50 pr-10 pl-10 mr-5 ml-5 partner-desktop container">
     <div class="row align-center justify-content-center">
           <div class="col-sm-12">
             <div class="head-main fonting">
@@ -75,7 +75,7 @@ Your Favourite Brands</b></h2>
     </section>
 
     <!-- Partners Mobile View -->
-    <div class="container partner-mobile">
+    <div class="container partner-mobile ">
         <section class="mt-50 mb-50 pr-10 pl-10 mr-5 ml-5" style="margin-bottom: 10px">
             <div class="row align-center justify-content-center">
                 <div class="col-sm-12">
@@ -96,7 +96,7 @@ Your Favourite Brands</b></h2>
         </section>
     </div>
 
-    <section class="why-section why-bg pb-40" style="">
+    <section class="why-section why-bg pb-40 container" style="">
         <div class="container container2 " style="margin-top: 10px; margin-bottom: 0px;">
             <div class="section-title">
                 <h2  style="color: #0d1884"><b>Why Choose Reaprite?</b></h2>
@@ -182,8 +182,8 @@ Your Favourite Brands</b></h2>
         </div>
     </section>
 
-<section link>
-    <div class="container page-home__video-story page-home__video-story--2">
+<section clas="container">
+    <div class="page-home__video-story page-home__video-story--2">
                      <div class="container-inner">
                          <div class="spacing--bottom">
                          <div class="home-heading" data-fade-in="">
@@ -285,7 +285,7 @@ Your Favourite Brands</b></h2>
                 </div>
                 </section>
 
-                <section class="protect-area pb-70 bg-second" style="background-color: #ffffff; padding-top: 26px">
+                <section class="protect-area pb-70 bg-second " style="background-color: #ffffff; padding-top: 26px">
         <div class="container-fluid">
             <div class="row mt-49 mr-30 ml-30">
                 <div class="col-lg-6">

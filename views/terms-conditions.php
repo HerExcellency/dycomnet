@@ -59,7 +59,7 @@
                     announcements via email, sms or other methods. You may opt out of receiving
                     nontransactional communications, including marketing communications from us by
                     following the directions in our e-mail to “unsubscribe” from our mailing list, or by sending
-                    an e-mail request to <a href="mailto:hello@reaprite.com" style="color: #0d1884">hello@reaprite.com</a></p>
+                    an e-mail request to <a href="mailto:hello@reaprite.com" style="color: #3C3E82 ">hello@reaprite.com</a></p>
                     <p>Please be aware that if you choose not to
                     receive such communication, certain offers attached to services you have chosen may be
                     affected. We will still communicate with you in connection with transactional
@@ -93,7 +93,7 @@
                     agreement with Reaprite.</p>
                     <p> You may not scrape or copy information through any means
                     (including crawlers, browser plugins and add-ons, and any other technology or manual work). If you wish to learn more about becoming a Partner, please
-                    contact <a href="mailto:hello@reaprite.com" style="color: #0d1884">hello@reaprite.com</a></p>
+                    contact <a href="mailto:hello@reaprite.com" style="color: #3C3E82 ">hello@reaprite.com</a></p>
                     
  
                     <h3  class="trim">Alerts and notification services</h3>
@@ -314,7 +314,7 @@ If fees will be charged for the Services, we will notify you before charging suc
 
                     <h3 class="trim">Feedback</h3>
                     <p>Your feedback is welcome and encouraged and welcome as this will enable us serve you
-                    better. You may submit feedback by emailing us at <a href="mailto:hello@reaprite.com" style="color: #0d1884">hello@reaprite.com</a></p>
+                    better. You may submit feedback by emailing us at <a href="mailto:hello@reaprite.com" style="color: #3C3E82 ">hello@reaprite.com</a></p>
                     <p>You agree, however,that </p>
                     <ul>
                         <li>by submitting unsolicited ideas to Reaprite or any of its employees or representatives,
@@ -352,9 +352,9 @@ If fees will be charged for the Services, we will notify you before charging suc
                     clicking the Terms and Condition link on the bottom of the home page for the Platform.
                     This document constitutes Reaprite's complete Terms of Service for Reaprite and related
                     services. If you have questions about these Terms and conditions or about content thereon,
-                    please contact us at <a href="mailto:hello@reaprite.com" style="color: #0d1884">hello@reaprite.com</a> </p>
+                    please contact us at <a href="mailto:hello@reaprite.com" style="color: #3C3E82 ">hello@reaprite.com</a> </p>
                     <p>You can also contact Reaprite via our physical address at:
-                            <address style="color: #0d1884; font-weight: bolder">
+                            <address style="color: #3C3E82 ; font-weight: bolder">
                             1B, Olajide Olabanji Cresent<br>
                             Lekki Phase 1, Lagos,<br>
                             Nigeria 

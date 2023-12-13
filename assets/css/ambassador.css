@@ -5,7 +5,7 @@
 
 .amb-default-btn{
     padding: 12px 45px;
-    background-color: #0d1884;
+    background-color: #3C3E82 ;
     color: #ffffff;
     border-radius: 5px;
     font-size: 16px;
@@ -52,13 +52,13 @@
     border-radius: .3rem
 }*/
 .amb-default-btn:hover {
-  color: #0d1884;
+  color: #3C3E82 ;
   background-color: #ffffff;
 }
 
 .ambassadorBullet ul li::before {
     content: "\2022";  
-    color: #0d1884;
+    color: #3C3E82 ;
     font-weight: bolder; 
     display: inline-block;
     width: 1em; 
@@ -210,7 +210,7 @@
         width: 37px;
         line-height: 29px;
         /* background-color: rgb(13, 24, 132); */
-        color: #0d1884;
+        color: #3C3E82 ;
         font-size: 20px;
         text-align: center;
         border-radius: 50px;
@@ -218,27 +218,27 @@
 }
 .amb-num .number .one{
     background-color: #E6EEFB;
-    /* color: #0d1884; */
+    /* color: #3C3E82 ; */
 }
 .amb-num .number .two{
     background-color: #FBE6F4;
-    /* color: #0d1884; */
+    /* color: #3C3E82 ; */
 }
 .amb-num .number .three{
     background-color: #E5FFBC;
-    /* color: #0d1884; */
+    /* color: #3C3E82 ; */
 }
 .amb-num .number .four{
     background-color: #FFECDB;
-    /* color: #0d1884; */
+    /* color: #3C3E82 ; */
 }
 .amb-num .number .five{
     background-color:#E0FFE1;
-    /* color: #0d1884; */
+    /* color: #3C3E82 ; */
 }
 .amb-num .number .six{
     background-color:#E3DFFF;
-    /* color: #0d1884; */
+    /* color: #3C3E82 ; */
 }
 
 .amb-req-icon{

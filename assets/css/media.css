@@ -592,7 +592,7 @@
     letter-spacing:0.12em;
     position:relative;
     margin-bottom:0;
-    border-bottom:1px solid #0d1884;
+    border-bottom:1px solid #3C3E82 ;
     line-height: 1.8
     }
 .css-1gbumrf{
@@ -606,7 +606,7 @@
     left:1.375rem;
     width:8px;
     height:8px;
-    background-color:#0d1884;
+    background-color:#3C3E82 ;
     }
 .css-1gbumrf:after{
     content:'';
@@ -618,7 +618,7 @@
     z-index:-1;
     -webkit-transition:width 500ms;
     transition:width 500ms;
-    background-color:#0d1884;
+    background-color:#3C3E82 ;
     opacity:0.4;
     }
 @media (min-width:62.5em){

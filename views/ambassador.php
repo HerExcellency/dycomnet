@@ -5,7 +5,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 pb-35">
                             <div class="main-banner-content">
-                                <h1 data-aos="zoom-in" data-aos-delay="700" style="color: #0d1884" class="trim">Become a Reaprite <br/>
+                                <h1 data-aos="zoom-in" data-aos-delay="700" style="color: #3C3E82 " class="trim">Become a Reaprite <br/>
 Ambassador</h1>
                                 <p data-aos="zoom-in" data-aos-delay="900" class="save-p trim">Reaprite campus ambassador program is designed to engage and empower students in campuses across Nigeria by signing them up as Campus ambassador. The Campus ambassador will serve as liaison between their campuses and Reaprite. 
 </p>
@@ -34,7 +34,7 @@ Ambassador</h1>
 
                         <div class="col-lg-6 pb-35">
                             <div class="main-banner-content">
-                                    <h1 data-aos="zoom-in" data-aos-delay="100" style="color: #0d1884" class="trim">Criteria to become <br/>an ambassador</h1>
+                                    <h1 data-aos="zoom-in" data-aos-delay="100" style="color: #3C3E82 " class="trim">Criteria to become <br/>an ambassador</h1>
                                <div class="ambassadorBullet" data-aos="zoom-in" data-aos-delay="200">
                                    <ul>
                                        <li>You must be currently enrolled in a Nigerian Tertiary Institution and pursuing an undergraduate or postgraduate degree.</li>
@@ -148,7 +148,7 @@ Ambassador</h1>
                                 <div class="amb-req-icon">
                                     <div class="icon circle-icon circle-icon1 why-icon leafy mb-10 trim amb-num hide-me">
                                         
-                                            <div  class="number" style="color: #0d1884">
+                                            <div  class="number" style="color: #3C3E82 ">
                                                 <span class="one figure">1</span>
                                             </div>
                                     </div>
@@ -163,7 +163,7 @@ Ambassador</h1>
                                 <div class="amb-req-icon">
                                     <div class="icon circle-icon circle-icon1 why-icon leafy mb-10 trim amb-num hide-me">
                                         
-                                            <div  class="number" style="color: #0d1884">
+                                            <div  class="number" style="color: #3C3E82 ">
                                                 <span class="two figure">2</span>
                                             </div>
                                     </div>
@@ -178,7 +178,7 @@ Ambassador</h1>
                                 <div class="amb-req-icon">
                                     <div class="icon circle-icon circle-icon1 why-icon leafy mb-10 trim amb-num hide-me">
                                         
-                                            <div  class="number" style="color: #0d1884">
+                                            <div  class="number" style="color: #3C3E82 ">
                                                 <span class="three figure ">3</span>
                                             </div>
                                     </div>
@@ -193,7 +193,7 @@ Ambassador</h1>
                                 <div class="amb-req-icon">
                                     <div class="icon circle-icon circle-icon1 why-icon leafy mb-10 trim amb-num hide-me">
                                         
-                                            <div  class="number" style="color: #0d1884">
+                                            <div  class="number" style="color: #3C3E82 ">
                                                 <span class="four figure">4</span>
                                             </div>
                                     </div>
@@ -208,7 +208,7 @@ Ambassador</h1>
                                 <div class="amb-req-icon">
                                     <div class="icon circle-icon circle-icon1 why-icon leafy mb-10 trim amb-num hide-me">
                                         
-                                            <div  class="number" style="color: #0d1884">
+                                            <div  class="number" style="color: #3C3E82 ">
                                                 <span class="five figure">5</span>
                                             </div>
                                     </div>
@@ -223,7 +223,7 @@ Ambassador</h1>
                                 <div class="amb-req-icon">
                                     <div class="icon circle-icon circle-icon1 why-icon leafy mb-10 trim amb-num hide-me">
                                         
-                                            <div  class="number trim" style="color: #0d1884">
+                                            <div  class="number trim" style="color: #3C3E82 ">
                                                 <span class="six figure ">6</span>
                                             </div>
                                     </div>
@@ -347,7 +347,7 @@ Ambassador</h1>
 <section class="media-mention-area ptbMedia-100 amb-media" style="padding-top:55px">
         <div class="container">
             <div class="media-title fonting ">               
-                <h2  class="trim h6h" style="color: #0d1884"><b>Media Mentions</b></h2>
+                <h2  class="trim h6h" style="color: #3C3E82 "><b>Media Mentions</b></h2>
             </div>
           
             <div class="media-slider owl-carousel owl-theme">

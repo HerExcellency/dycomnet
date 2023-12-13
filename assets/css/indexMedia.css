@@ -69,7 +69,7 @@ Top Services Area CSS
 
 .stop-services-item .icon i {
   font-size: 60px;
-  color: #0d1884;
+  color: #3C3E82 ;
   line-height: 1;
 }
 
@@ -79,7 +79,7 @@ Top Services Area CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   font-weight: 500;
-  color: #0d1884;
+  color: #3C3E82 ;
 }
 
 .stop-services-item p {
@@ -89,7 +89,7 @@ Top Services Area CSS
 
 .stop-services-item .link-btn {
   font-size: 16px;
-  color: #0d1884;
+  color: #3C3E82 ;
   font-weight: 500;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -105,7 +105,7 @@ Top Services Area CSS
   left: 0;
   top: 0;
   border-radius: 20px;
-  /* border-top: 2px solid #0d1884; */
+  /* border-top: 2px solid #3C3E82 ; */
   -webkit-transition: 0.5s;
   transition: 0.5s;
   z-index: -1;
@@ -119,14 +119,14 @@ Top Services Area CSS
 
 .stop-services-item:hover .link-btn {
   letter-spacing: 1px;
-  color: #0d1884;
+  color: #3C3E82 ;
 }
 
 .stop-services-item:hover h3 a {
-  color: #0d1884;
+  color: #3C3E82 ;
 }
 .slink {
-  color: #0d1884;
+  color: #3C3E82 ;
   }
   .neut{
     color: #6e676f;

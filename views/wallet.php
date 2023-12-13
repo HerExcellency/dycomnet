@@ -5,7 +5,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 pb-35">
                             <div class="main-banner-content">
-                                <h1 data-aos="zoom-in" data-aos-delay="700" style="color: #0d1884" class="trim">Save, Enjoy <br>Your Best Life </h1>
+                                <h1 data-aos="zoom-in" data-aos-delay="700" style="color: #3C3E82 " class="trim">Save, Enjoy <br>Your Best Life </h1>
                                 <p data-aos="zoom-in" data-aos-delay="900" class="save-p">One rule to achieving financial freedom is by saving.  We are saying, don’t just earn money, make it a habit to save so you can enjoy the good life and things you’ve always wished for.
 Our saving plans are designed to give you flexibility, having access to the money when you need it the most and having fun in the process. 
 </p>
@@ -28,7 +28,7 @@ Our saving plans are designed to give you flexibility, having access to the mone
 <section class="top-services-area  pb-30" >
         <div class="container container2">
             <div class="section-title">
-                <h2  style="color: #0d1884">Save, Invest and Enjoy Life</h2>
+                <h2  style="color: #3C3E82 ">Save, Invest and Enjoy Life</h2>
                 <p  >Experience seamless ways to save while bank rolling any lifestyle.</p>
             </div>
         </div>
@@ -276,7 +276,7 @@ Avoid the temptation of spending that money meant for that particularly importan
         <div class="container ">
             <div class="col-sm-12">
                 <div class="head-main fonting">
-                    <h2 data-aos="zoom-in" data-aos-duration="10" class="trim h6h" style="color: #0d1884"><b>What Customers Say About Us</b></h2>
+                    <h2 data-aos="zoom-in" data-aos-duration="10" class="trim h6h" style="color: #3C3E82 "><b>What Customers Say About Us</b></h2>
                 </div>
             </div>
             <div data-aos="fade-up" data-aos-duration="20" class="row ml-lg-5 ml-md-2 mr-lg-5 mr-md-2 pl-lg-2 pl-md-1 pr-lg-3 pr-md-1  vertical-align-center customer-web">
@@ -326,7 +326,7 @@ Avoid the temptation of spending that money meant for that particularly importan
                                     <a href="<?php echo base_url(); ?>/review"> 
                                     
                                         <img src="//img.icons8.com/ultraviolet/40/000000/pencil--v2.png" style="padding-left:33%; padding-top: 12px"/>
-                                        <p style="margin-left: 12px; color: #0d1884">Write Yours</p>
+                                        <p style="margin-left: 12px; color: #3C3E82 ">Write Yours</p>
                                     </a>
                                 
                                 </div>
@@ -358,7 +358,7 @@ Avoid the temptation of spending that money meant for that particularly importan
                     <div class="img mb-4" style="background-image: url(assets/img/customer/OguAnita-Reaprite.webp);"></div>
                     <div class="info text-center" style="padding-top: 15px">
                         <p>“So far, I have enjoyed my experience with Reaprite. I use it for savings and I recommended it to my friends."</p>
-                        <p style="color: #0d1884"><span class="opacit"><b>Anita, Lagos.</b></span></p>
+                        <p style="color: #3C3E82 "><span class="opacit"><b>Anita, Lagos.</b></span></p>
                     </div>
                 </div>
             </div>

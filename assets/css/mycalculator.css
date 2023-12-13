@@ -13,13 +13,13 @@
 }
 
 .cent {
-    color: #0d1884;
+    color: #3C3E82 ;
     font-size: 42px;
     margin-top: -24px;
     margin-bottom: 18px;
 }
 .blad p {
-    color:#0d1884;
+    color:#3C3E82 ;
     font-size: 33px;
     margin-top: -12px;
     margin-bottom: 15px;
@@ -35,7 +35,7 @@
 }
 
 .btn-chrome{
-    background-color: #0d1884;
+    background-color: #3C3E82 ;
     color: #ffffff;
     
 }
@@ -43,8 +43,8 @@
     -webkit-tap-highlight-color:transparent;
     background-color:#fff;
     border-radius:5px;
-    border:solid 1px #0d1884;
-    color: #0d1884;
+    border:solid 1px #3C3E82 ;
+    color: #3C3E82 ;
     box-sizing:border-box;
     clear:both;
     cursor:pointer;
@@ -79,7 +79,7 @@
  font-size: 12px;
 }
 .order-amount{
-    border: #0d1884 1px solid;
+    border: #3C3E82  1px solid;
     border-radius: 6px;
     padding-left: 10px;
 }
@@ -92,9 +92,9 @@
     display: block !important;
     width: 100%;
     height: 42px;
-    border: 1px solid #0d1884;
+    border: 1px solid #3C3E82 ;
     border-radius: 6px;
-    color: #0d1884;
+    color: #3C3E82 ;
     padding-left: 10px;
     background-color: #ffffff;
 }

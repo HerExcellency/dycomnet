@@ -41,7 +41,7 @@
 }
 
 .bluey{
-    color: #0d1884;
+    color: #3C3E82 ;
 }
 .pald{
     padding: 20px;
@@ -195,7 +195,7 @@ p.mobile { display: none }
    @media only screen and (max-width: 765px){
     /* .clause {
       background-image: url('../img/illust/bg-comp.jpg');
-      background-color: #0d1884;
+      background-color: #3C3E82 ;
       color: #ffffff;
     } */
     .clause {
@@ -250,7 +250,7 @@ p.mobile { display: none }
     /* display: inline-block; */
     padding: 12px 45px;
     background-color: #ffffff;
-    color: #0d1884;
+    color: #3C3E82 ;
     border-radius: 5px;
     font-size: 16px;
     font-weight: 500;
@@ -298,17 +298,17 @@ p.mobile { display: none }
 }
 .ij-default-btn:hover {
   color: #ffffff;
-  background-color: #0d1884;
+  background-color: #3C3E82 ;
 }
 .ij {
-  border: 1px solid #0d1884;
+  border: 1px solid #3C3E82 ;
 }
 .check__item{
   margin-top: 15px;
 }
 
 .ij-default-btn a {
-  color: #0d1884;
+  color: #3C3E82 ;
 }
 .show>.nav-link {
   color: #6e727f !important;

@@ -130,10 +130,9 @@
                     <div class="single-footer-widget">
                         <div class="footer-logo nuy">
                             
-                            <p style="padding-bottom:5px; font-weight: bolder; opacity: 0.8"><span>Lagos:</span>  1B Olabanji Olajide Crescent, Off Mobolaji Johnson Estate,
-                                Lekki Phase 1, Lekki, Lagos</p> 
+                            <p style="padding-bottom:5px; font-weight: bolder; opacity: 0.8"><span>Lagos:</span>  4, Yekini Okobale Street, Ago Palace, Okota, Isolo, Lagos, Nigeria.</p> 
                             
-                            <p class="footer--expressions">Reaprite.com Savings operates under the Cooperative License of Reaprite Multipurpose Cooperative Society. Reaprite renders savings and sponsorship services to its users. To ensure security, funds are warehoused by our trustee, Investment One Financial Services Limited (formerly GTB Asset Management Limited).</p>
+                            <p class="footer--expressions">We are a multi vendor ATM support company driven by passion to deliver quality sales and support services to financial service providers in Africa.</p>
 
                             <ul class="social ">
                                 <li >

@@ -10,7 +10,7 @@ body {
     max-width: 400px;
     background-color: white;
     /* text-align: center; */
-    box-shadow: 0 24px 40px -8px #0d1884;
+    box-shadow: 0 24px 40px -8px #3C3E82 ;
   }
   
   .birthday-card img {
@@ -49,16 +49,16 @@ body {
   margin-left: auto;
   } 
   .take-action a{
-  border: 1px solid #0d1884;
+  border: 1px solid #3C3E82 ;
   padding: 4px 8px;
   margin: auto 6px;
   border-radius: 4px;
-  color: #0d1884;
+  color: #3C3E82 ;
   text-decoration: none;
   }
   .take-action a:hover{
   color: white;
-  background: #0d1884;
+  background: #3C3E82 ;
   }
   .welcome-logo img{
   padding-top: 20px;
@@ -70,9 +70,9 @@ body {
   
   }
   .register-download{
-    border: 1px solid #0d1884;
+    border: 1px solid #3C3E82 ;
     color: #ffffff;
-    background-color: #0d1884;
+    background-color: #3C3E82 ;
   }
 
   input[type=text], input[type=password], input[type=email], input[type=tel]{
@@ -96,7 +96,7 @@ body {
   
   /* Set a style for all buttons */
   button {
-    background-color: #0d1884;
+    background-color: #3C3E82 ;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -114,7 +114,7 @@ body {
   /* Extra styles for the cancel button */
   .downloadbtn {
     padding: 14px 20px;
-    background-color: #0d1884;
+    background-color: #3C3E82 ;
   }
   
   /* Float cancel and signup buttons and add an equal width */

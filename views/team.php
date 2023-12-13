@@ -24,7 +24,7 @@
 
           <div class="heading mb-80 text-left">
 
-            <h2 style="color: #0d1884">Our Sauce</h2>
+            <h2 style="color: #3C3E82 ">Our Sauce</h2>
             <p>At Reaprite, we work to cultivate an inclusive culture that recognizes and respects diversity of experience, background, thought, and behavior. We're dedicated to building an environment that fosters a sense of belonging for all of our employees. We have a long way to go, but we won't stop until we get there.</p>
 
           </div>
@@ -191,7 +191,7 @@
 
           <div class="heading mb-20 text-left">
 
-            <h2 style="color: #0d1884">Advisory Team</h2>
+            <h2 style="color: #3C3E82 ">Advisory Team</h2>
 
           </div>
 

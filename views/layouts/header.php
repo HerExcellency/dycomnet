@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@reaprite">
 
-<meta name="twitter:title" content="Reaprite Global Limited">
+<meta name="twitter:title" content="Dycom Net &#8211; No 1 ATM Maintenance and Engineering Company in Lagos, Africa.">
 <meta name="twitter:description" content="Saving Money in Nigeria, Savings Account, Periodic savings, Fixed savings, Onetime savings,  Investment One, Digital savings, Savings Automation, High interest rate, Save Money, FinTech, Online savings platform, Digital savings in Nigeria, Personal Finance, Investments, Wealth Management, savings account interest rate, saving account interest rate calculator, savings account with high interest, savings account promotions, monthly savings account, payday investor, payday automated savings, digital piggy bank, payday online investment, fixed savings rate, fixed savings high interest, fixed deposit, fixed deposit account,best online savings rates, best online high yield savings accounts, online savings interest rates, best online interest rates, savings and investment platform, best online savings account app, grow your money online, savings and investment in Nigeria">
 <meta name="twitter:image" content="https://res.cloudinary.com/ijeomaonuaju/image/upload/v1611152585/WebDesignWeb_yltiba.jpg">
 
@@ -78,9 +78,10 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/css/about.css">
     <script src="https://kit.fontawesome.com/ff6c599ae6.js" crossorigin="anonymous"></script>
 
-    <title><?php echo @$data['page_title'] ?: 'Reaprite - The Smart Way to Plan, Save and Invest Online'; ?></title>
+    <title><?php echo @$data['page_title'] ?: 'Dycom Net &#8211; No 1 ATM Maintenance and Engineering Company in Lagos, Africa.'; ?></title>
 
-    <link rel="icon" type="image/png" href="<?php echo base_url(); ?>/assets/img/icons/icon2.png">
+    <!-- <link rel="icon" type="image/png" href="<?php echo base_url(); ?>/assets/img/icons/icon2.png"> -->
+    <link rel="icon" type="image/png" href="https://res.cloudinary.com/ijeomaonuaju/image/upload/v1702453034/dycomnet/iaqxgk1qjlq8ytwnir6b.png">
     <!-- Jquery Slim JS -->
     <script src="<?php echo base_url(); ?>/assets/js/jquery.min.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -89,7 +90,7 @@
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    gtag('js', new Date())
 
     gtag('config', 'UA-187232250-1');
     </script>
@@ -118,7 +119,7 @@
     <div class="marquee-header-area ">
         <div class="container">
                 <div class="marquee3k align-items-center" data-speed="0.25" data-pausable="bool">
-                     <a href="//reaprite.com/ambassador"><p >Earn a bragging right, become a <span style="background-color: #0d1884; color: #6eeefb">Reaprite Campus Ambassador</span></p></a>                   
+                     <a href="//reaprite.com/ambassador"><p >Earn a bragging right, become a <span style="background-color: #3C3E82 ; color: #6eeefb">Reaprite Campus Ambassador</span></p></a>                   
                 </div>
             </div>
     </div>

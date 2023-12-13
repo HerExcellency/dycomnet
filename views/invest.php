@@ -6,7 +6,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5">
                             <div class="main-banner-content">
-                                <h1 data-aos="zoom-in" data-aos-delay="700" style="color: #0d1884" >Invest Right with Reaprite</h1>
+                                <h1 data-aos="zoom-in" data-aos-delay="700" style="color: #3C3E82 " >Invest Right with Reaprite</h1>
                                 <p data-aos="zoom-in" data-aos-delay="900"class="save-p">Grow your money and build financial Asset.</p>
                                 <p data-aos="zoom-in" data-aos-delay="900" class="save-p">You have done the heavy lifting of working hard to earn the money, why not let your money work overtime and grow for you?  We offer open investment opportunities in Agriculture. Invest right!</p>
                                 <div class="ij-btn ij-btn-lg lift"> <a class="align-start ij ij-default-btn" href="https://app.reaprite.com/login">Start Sponsoring</a></div>
@@ -29,7 +29,7 @@
     <section class="top-services-area ">
         <div class="container container2">
             <div class="section-title">
-                <h2  style="color: #0d1884">Sponsor with Confidence</h2>
+                <h2  style="color: #3C3E82 ">Sponsor with Confidence</h2>
                 <p >Invest with confidence in our professionally managed investment portfolios using the Reaprite app.</p>
             </div>
             </div>
@@ -53,7 +53,7 @@
                 <div class="col-lg-6">
                     <div class="banking-content">
                         <div class="protect-content">
-                            <h3  class="mb-20 trim" style="color: #0d1884">Agro Sponsorship</h3>
+                            <h3  class="mb-20 trim" style="color: #3C3E82 ">Agro Sponsorship</h3>
                             <p >
                             There are many reasons to invest in agriculture: It is a low-risk investment that keeps pace with inflation, it is a tangible asset that provides benefit to the community, and it diversifies your investment portfolios. Our agro-investment opportunities have been carefully selected and offer high return possibilities.</p>
                             

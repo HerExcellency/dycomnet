@@ -4,7 +4,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5">
                             <div class="main-banner-content">
-                                <h1 style="color: #0d1884" class="trim">Save, Enjoy <br>Your Best Life </h1>
+                                <h1 style="color: #3C3E82 " class="trim">Save, Enjoy <br>Your Best Life </h1>
                                 <p class="save-p">One rule to achieving financial freedom is by saving.  We are saying, don’t just earn money, make it a habit to save so you can enjoy the good life and things you’ve always wished for.
 Our saving plans are designed to give you flexibility, having access to the money when you need it the most and having fun in the process. 
 </p>
@@ -28,7 +28,7 @@ Our saving plans are designed to give you flexibility, having access to the mone
 <section class="top-services-area pt-30 pb-30" >
         <div class="container container2">
             <div class="section-title">
-                <h2 style="color: #0d1884">Save, Invest and Enjoy Life</h2>
+                <h2 style="color: #3C3E82 ">Save, Invest and Enjoy Life</h2>
                 <p>Experience seamless ways to save while bank rolling any life style.</p>
             </div>
         </div>
@@ -110,7 +110,7 @@ Our saving plans are designed to give you flexibility, having access to the mone
         <div class="container">
             <div class="section-title">
                 <!-- <span>Customers say</span> -->
-                <h2 style="color: #0d1884;">What customers say about Us</h2>
+                <h2 style="color: #3C3E82 ;">What customers say about Us</h2>
             </div>
 
             <div class="customer-slider owl-carousel owl-theme">
@@ -121,7 +121,7 @@ Our saving plans are designed to give you flexibility, having access to the mone
                     <p>“Reaprite is helping me a lot because I'm the type that spends lavishly but now, I have some money in my savings. I started two weeks ago. I'm so happy with Reaprite."</p>
 
                     <div class="customer-info">
-                        <h3 style="color: #0d1884">Nafisah</h3>
+                        <h3 style="color: #3C3E82 ">Nafisah</h3>
                         
                     </div>
 
@@ -135,7 +135,7 @@ Our saving plans are designed to give you flexibility, having access to the mone
                     <p>“Reaprite is so easy to use and the interest rates are very inviting.  I find this platform easy to use and I strongly recommend it for anyone.”</p>
 
                     <div class="customer-info">
-                        <h3 style="color: #0d1884">Tim</h3>
+                        <h3 style="color: #3C3E82 ">Tim</h3>
                         
                     </div>
 
